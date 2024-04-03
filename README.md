@@ -1,4 +1,4 @@
-### Hi there 👋
+### 개발자 지망 심우형이라고 합니다.
 
 <!--
 **stylesimu/stylesimu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
